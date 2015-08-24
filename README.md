@@ -1,2 +1,4 @@
 # functional-objc
-Reduce, map, and filter methods for NSArray, providing just a hint  of functional programming goodness to Objecive-C lovers.
+`reduce`, `map`, and `filter` methods for `NSArray`.
+
+Just a hint of functional programming goodness for Objective-C lovers.
